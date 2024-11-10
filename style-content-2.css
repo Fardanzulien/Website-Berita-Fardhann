@@ -1,0 +1,32 @@
+.title {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	color: blue;
+	width: 70%;
+	margin-left: 15%;
+	text-align: center;
+}
+
+.image-1 {
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url(img/gambar-13.jpeg);
+	margin-left: 15%;
+	border: solid 1px;
+	width: 70%;
+	height: 40rem;
+}
+
+.text-1 {
+	margin-top: 2rem;
+	color: black;
+	font-size: 18px;
+	padding-top: 2rem;
+	margin-left: 15%;
+	width: 70%;
+	text-align: start;
+}
+
+span {
+	color: blue;
+}
